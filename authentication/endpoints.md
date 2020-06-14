@@ -11,7 +11,7 @@ Expected request body:
         "captchaCode": "Should be passed in, only in production."
     }
 }
-
+```
 Expected Response if credentials correct:
 ```json
 {
